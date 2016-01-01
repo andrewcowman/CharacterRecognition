@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\bin\Debug\CharacterRecognition.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\bin\Debug\CharacterRecognition.exe
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\bin\Debug\CharacterRecognition.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\obj\Debug\CharacterRecognition.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\obj\Debug\CharacterRecognition.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\obj\Debug\CharacterRecognition.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\obj\Debug\CharacterRecognition.exe
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\obj\Debug\CharacterRecognition.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\CharacterRecognition\obj\Debug\CharacterRecognition.Main.resources
